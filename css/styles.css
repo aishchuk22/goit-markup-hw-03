@@ -234,7 +234,6 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
-  padding-bottom: 32px;
 }
 
 .footer {
@@ -269,7 +268,6 @@ img {
 }
 
 .team-image {
-  margin-bottom: 32px;
 }
 
 .portfolio {
