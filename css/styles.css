@@ -39,6 +39,7 @@ img {
 
 .container.header-container {
   display: flex;
+  align-items: center;
 }
 
 .key-points {
@@ -65,6 +66,7 @@ img {
 .header-navigation {
   display: flex;
   align-items: center;
+  flex-grow: 1;
 }
 
 .header-list {
